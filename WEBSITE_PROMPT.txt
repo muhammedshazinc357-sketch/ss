@@ -1,0 +1,23 @@
+PROMPT FOR GENERATING THE WEBSITE
+
+Create a standard, professional, responsive personal portfolio website named "SS WEBSITES" using only HTML, CSS, and vanilla JavaScript. Use a clean light/day theme with a white background, blue accents, readable typography, generous spacing, rounded cards, and subtle shadows. The design must work well on mobile, tablet, and desktop.
+
+Profile:
+- Name: Muhammad Shazin C
+- Service/role: Software Developer
+- Skills: HTML, CSS, JavaScript
+
+Contact:
+- WhatsApp/phone number: +91 94007 01146
+- Instagram: @shazinshafeeq_ (link to https://www.instagram.com/shazinshafeeq_/)
+- Gmail: muhammadshazinc357@gmail.com (use a mailto link)
+
+Layout:
+1. A sticky header with an "SS" logo and the brand name "SS WEBSITES", plus navigation links for Home, About, Skills, and Contact.
+2. A welcoming hero section that displays "Muhammad Shazin C" and "Software Developer", a short introduction, and buttons to contact me and view skills.
+3. An About Me section.
+4. A Skills section with separate cards for HTML, CSS, and JavaScript.
+5. A Contact section with clickable WhatsApp, Instagram, and Gmail cards.
+6. A footer that repeats the "SS" logo and "SS WEBSITES", includes a short technology note, and automatically displays the current year.
+
+Create the "SS" logo using HTML and CSS, and show it in the top header, hero section, and bottom footer. Add a working mobile navigation menu with JavaScript, accessible labels, semantic HTML, and responsive CSS. Keep the code organized into index.html, style.css, and script.js. Do not use external frameworks or paid assets.
